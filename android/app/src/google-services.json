@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "867652696529",
+    "project_id": "ancientmysticmusic-da5cc",
+    "storage_bucket": "ancientmysticmusic-da5cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867652696529:android:d7b99e216a092b11be88f0",
+        "android_client_info": {
+          "package_name": "com.ancientmysticmusic.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867652696529-9sl1jptsqa0gcfmuqpms3sgpeeisaord.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ancientmysticmusic.app",
+            "certificate_hash": "eff04bc4d07d31e8ace846522f7a6620a671c4ce"
+          }
+        },
+        {
+          "client_id": "867652696529-h7h07nf96dth1qqcaepgg7lhghvp2stf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUyMSQaYty7nsiRBIndl-Eas_G6Tqcz6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867652696529-h7h07nf96dth1qqcaepgg7lhghvp2stf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "867652696529-umcf06pkmme3tooapcfj8cn75coj6cvv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ancientmysticmusic.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

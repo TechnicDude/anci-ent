@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ancientmysticmusic</string>
+    <string name="facebook_app_id">1331010547648236</string>
+    <string name="fb_login_protocol_scheme">fb1331010547648236</string>
+    <string name="facebook_client_token">1d554d5f5272931059d265648c3c88cd</string>
+</resources>
